@@ -1,4 +1,4 @@
-# RTGraph
+# GraphX
 
 A simple Python application for plotting and storing data from a serial port in real time, formatted as [CSV](https://en.wikipedia.org/wiki/Comma-separated_values).
 The application uses the [mutliprocessing](https://docs.python.org/3/library/multiprocessing.html) package to allow better usage of the host resources, overcoming limitations such as [GIL](https://docs.python.org/3/glossary.html#term-global-interpreter-lock) in Python.  
